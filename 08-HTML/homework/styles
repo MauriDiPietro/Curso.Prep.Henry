@@ -1,0 +1,12 @@
+<h1 style="color:blue;">Jose Mauricio </h1>
+
+#spanId {
+font-size= 18px;
+}
+
+#thirdDiv {
+		height: 600px; 
+		width: 500px;
+		padding: 50px;} 
+
+<body bgcolor='beige'>
